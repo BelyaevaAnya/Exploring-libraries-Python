@@ -1,5 +1,5 @@
 # Exploring-libraries-Python
-# Exploring popular Python Libraries
+Exploring popular Python Libraries
 # module_11_1-exploring pandas 
 # numpy_ex-exploring numpy
 # matplotlib_ex-exploring (with using pandas and numpy)
